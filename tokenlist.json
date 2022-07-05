@@ -5,8 +5,8 @@
   "timestamp": "2022-07-04T00:00:00.000+00:00",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
   "tokens": [
     {
@@ -24,6 +24,30 @@
       "name": "Wrapped BTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0xFD709452E12Df357f415D971eE12C7854285a072",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x7C4e4edc8Cda71DfaB107a1A44f6858f36857cA8",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 4,
+      "address": "0x15e4F1fc9a02e36039554531cDdF1C70F0B05364",
+      "symbol": "tETH",
+      "name": "Test Ether",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "chainId": 4,
