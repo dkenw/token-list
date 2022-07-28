@@ -1,0 +1,10 @@
+{
+  "name": "tokenlist",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.30",
+    "ajv": "^8.11.0",
+    "ajv-formats": "^2.1.1"
+  }
+}
