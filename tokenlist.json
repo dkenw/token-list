@@ -2,11 +2,11 @@
   "name": "Muffin Testnet Tokens",
   "logoURI": "https://raw.githubusercontent.com/dkenw/token-list/master/logo.svg",
   "keywords": ["testnet"],
-  "timestamp": "2022-07-28T00:00:00.000+00:00",
+  "timestamp": "2022-07-30T00:00:00.000+00:00",
   "version": {
     "major": 1,
-    "minor": 1,
-    "patch": 2
+    "minor": 2,
+    "patch": 0
   },
   "tokens": [
     {
