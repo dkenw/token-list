@@ -1,5 +1,5 @@
 {
-  "name": "Test Tokens",
+  "name": "Muffin Testnet Tokens",
   "logoURI": "https://raw.githubusercontent.com/dkenw/token-list/master/logo.svg",
   "keywords": ["testnet"],
   "timestamp": "2022-07-28T00:00:00.000+00:00",
@@ -9,6 +9,19 @@
     "patch": 1
   },
   "tokens": [
+    {
+      "chainId": 4,
+      "address": "0x15e4F1fc9a02e36039554531cDdF1C70F0B05364",
+      "symbol": "tETH",
+      "name": "Test Ether",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "mintable": {
+          "default": "10000000000000000000"
+        }
+      }
+    },
     {
       "chainId": 4,
       "address": "0xC6399e9E8D6d70A2aA1fc6ade21F56567f6c7862",
@@ -58,19 +71,6 @@
       "extensions": {
         "mintable": {
           "default": "10000000000000000000000"
-        }
-      }
-    },
-    {
-      "chainId": 4,
-      "address": "0x15e4F1fc9a02e36039554531cDdF1C70F0B05364",
-      "symbol": "tETH",
-      "name": "Test Ether",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "extensions": {
-        "mintable": {
-          "default": "10000000000000000000"
         }
       }
     }
