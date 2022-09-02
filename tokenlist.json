@@ -2,9 +2,9 @@
   "name": "Muffin Testnet Tokens",
   "logoURI": "https://raw.githubusercontent.com/dkenw/token-list/master/logo.svg",
   "keywords": ["testnet"],
-  "timestamp": "2022-07-30T00:00:00.000+00:00",
+  "timestamp": "2022-09-02T00:00:00.000+00:00",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -51,6 +51,58 @@
     {
       "chainId": 4,
       "address": "0x7C4e4edc8Cda71DfaB107a1A44f6858f36857cA8",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "extensions": {
+        "mintable": {
+          "default": "10000000000000000000000"
+        }
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x2C03fF2a384b5CbB93998be296adE0Ed2d9E60f9",
+      "symbol": "tETH",
+      "name": "Test Ether",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "extensions": {
+        "mintable": {
+          "default": "10000000000000000000"
+        }
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0xb6136C36610d4d5374030AC0Ec0021fB1F04aaAa",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "extensions": {
+        "mintable": {
+          "default": "10000000000"
+        }
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x2bfeDe717809561176086760Ee3f4a4895A399af",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+      "extensions": {
+        "mintable": {
+          "default": "100000000"
+        }
+      }
+    },
+    {
+      "chainId": 5,
+      "address": "0x63435cf71274eD12d9bFbC18440a4975764F74Fd",
       "symbol": "DAI",
       "name": "Dai Stablecoin",
       "decimals": 18,
